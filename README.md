@@ -1,4 +1,4 @@
-# QA-manual-portf-lio-
+# QA-manual-portfolio-
 Portfólio de QA Manual com casos de teste, planos de teste e relatórios de bugs.
 
 ## Sobre o projeto
