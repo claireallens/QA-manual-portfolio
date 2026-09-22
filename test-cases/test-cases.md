@@ -24,10 +24,10 @@ Validar as principais funcionalidades da aplicação, verificando se o sistema a
 O usuário deve ser direcionado para a página de produtos.
 
 **Resultado obtido:**
-A preencher durante a execução do teste.
+O usuário foi direcionado para a página de produtos.
 
 **Status:**
-A executar.
+PASS
 
 ---
 
@@ -45,7 +45,7 @@ A executar.
 O sistema deve impedir o acesso e apresentar uma mensagem informando que as credenciais são inválidas.
 
 **Resultado obtido:**
-A preencher durante a execução do teste.
+O sistema impediu o login e exibiu a mensagem: "Username and password do not match any user in this service".
 
 **Status:**
-A executar.
+PASS
